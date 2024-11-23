@@ -1,0 +1,7 @@
+sudo netstat -tulpn | grep LISTEN
+
+kill -9 (python PID)
+
+cd /opt/myproject/
+
+gunicorn --bind 0.0.0.0:5002 wsgi:app

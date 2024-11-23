@@ -1,0 +1,386 @@
+2021-12-23 09:11:02,644-INFO-Request : HiQfUDYtUiCbDU2 - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-23 09:11:07,198-INFO-Exception : HiQfUDYtUiCbDU2 - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 58, in create_sub
+    responsedata = {"message": resmsg['Message']}
+KeyError: 'Message'
+
+2021-12-23 09:11:51,495-INFO-Request : KF6c3ixVKbjY3vW - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-23 09:13:02,629-INFO-Request : HixE8sdkPMPBruJ - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 10, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-23 09:14:41,117-INFO-Request : ZRdWeOPLaoVbaZ6 - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 10, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-23 09:15:01,494-INFO-Request : AoGvwe6fUuMRw1b - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-23 09:21:44,731-INFO-Request : muZiF4EBnQFXarW - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 10, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-23 09:21:46,498-INFO-Response : muZiF4EBnQFXarW - {'message': "SKU 'KL4151XIEMG' band doesn't support quantity '10'. (Error Guid: e3798451-3e57-44b1-9e59-4231be948797)"}
+2021-12-23 09:21:55,162-INFO-Request : 5WE7XDPb0cq43M4 - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-23 09:21:58,070-INFO-Response : 5WE7XDPb0cq43M4 - {'SubscriptionId': '5701a581-00c8-9d6e-0ecc-3a00f797965d', 'ActivationCode': 'HT5TB-MD39Q-SXX13-27T26', 'LicenseId': '948f6af3-6711-40be-afea-25e33f5fe485'}
+2021-12-23 09:23:38,180-INFO-Request : ToYlDitrHyVdG1L - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 10, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-23 09:23:40,040-INFO-Response : ToYlDitrHyVdG1L - {'ErrorId': '7ebce224-e84c-48ce-aa0a-fbfd7406361d', 'Message': "SKU 'KL4151XIEMG' band doesn't support quantity '10'. (Error Guid: 547623dd-1fa6-4105-8a2d-e6b8e26723f0)", 'ErrorCode': 'Validation'}
+2021-12-23 09:44:25,873-INFO-Request : CIZoqswe5B8BksF - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 3, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-23 09:44:29,550-INFO-Response : CIZoqswe5B8BksF - {'ErrorId': 'eb723a0c-81c4-49f8-923b-6ee274ae1184', 'Message': "SKU 'KL4151XIEMG' band doesn't support quantity '3'. (Error Guid: 7009d80c-faeb-4783-a7b1-247113831685)", 'ErrorCode': 'Validation'}
+2021-12-23 09:44:40,348-INFO-Request : F3umO0rw5HRr2sA - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-23 09:44:43,945-INFO-Response : F3umO0rw5HRr2sA - {'SubscriptionId': '5d01a781-00c8-9d6e-0ecc-3a00f7ac6df1', 'ActivationCode': 'ES6N2-44YEW-6HQ63-C44XG', 'LicenseId': 'dd1b31db-e557-4c56-b8e0-de23ad37794d'}
+2021-12-23 09:45:04,278-INFO-Request : JMQBZKxmtBB9GEY - {'SubscriptionId': '5d01a781-00c8-9d6e-0ecc-3a00f7ac6df1', 'Quantity': 6}
+2021-12-23 09:45:06,361-INFO-Exception : JMQBZKxmtBB9GEY - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 91, in modify_sub
+    resmsg = json.loads(modifyresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-23 09:46:31,892-INFO-Request : ybPgtHQPkvRjKIU - {'SubscriptionId': '5d01a781-00c8-9d6e-0ecc-3a00f7ac6df1', 'Quantity': 6}
+2021-12-23 09:46:33,183-INFO-Exception : ybPgtHQPkvRjKIU - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 91, in modify_sub
+    resmsg = json.loads(modifyresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-23 09:49:26,197-INFO-Request : tOeUwjKaJP9dNHH - {'SubscriptionId': '5d01a781-00c8-9d6e-0ecc-3a00f7ac6df1', 'Quantity': 6}
+2021-12-23 09:49:27,812-INFO-Exception : tOeUwjKaJP9dNHH - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 91, in modify_sub
+    resmsg = json.loads(modifyresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-23 09:49:58,968-INFO-Request : I1vLHMt905KyeGS - {'SubscriptionId': '5d01a781-00c8-9d6e-0ecc-3a00f7ac6df1', 'Quantity': 6}
+2021-12-23 09:50:00,866-INFO-Exception : I1vLHMt905KyeGS - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 92, in modify_sub
+    resmsg = json.loads(modifyresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-23 09:50:56,157-INFO-Request : JpFOKPS3XNsjZbj - {'SubscriptionId': '5d01a781-00c8-9d6e-0ecc-3a00f7ac6df1', 'Quantity': 6}
+2021-12-23 09:51:26,837-INFO-Request : KUHlj7POBoqu6aq - {'SubscriptionId': '5d01a781-00c8-9d6e-0ecc-3a00f7ac6df1', 'Quantity': 6}
+2021-12-23 09:51:28,643-INFO-Exception : KUHlj7POBoqu6aq - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 91, in modify_sub
+    print(modifyresponse.json())
+  File "D:\Program Files\Python\Python39\lib\site-packages\requests\models.py", line 900, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "D:\Program Files\Python\Python39\lib\site-packages\simplejson\__init__.py", line 525, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\site-packages\simplejson\decoder.py", line 370, in decode
+    obj, end = self.raw_decode(s)
+  File "D:\Program Files\Python\Python39\lib\site-packages\simplejson\decoder.py", line 400, in raw_decode
+    return self.scan_once(s, idx=_w(s, idx).end())
+simplejson.errors.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-23 09:51:56,941-INFO-Request : 8noBsek4ENDGIr7 - {'SubscriptionId': '5d01a781-00c8-9d6e-0ecc-3a00f7ac6df1', 'Quantity': 6}
+2021-12-23 09:52:31,212-INFO-Request : 9eoqI990auO9ZMz - {'SubscriptionId': '5d01a781-00c8-9d6e-0ecc-3a00f7ac6df1', 'Quantity': 5}
+2021-12-23 09:53:10,044-INFO-Request : QHXDKyUf0FsbCB2 - {'SubscriptionId': '5d01a781-00c8-9d6e-0ecc-3a00f7ac6df1', 'Quantity': 5}
+2021-12-23 09:53:48,238-INFO-Request : A0Z3W7rZJuRt0XD - {'SubscriptionId': '5d01a781-00c8-9d6e-0ecc-3a00f7ac6df1_1233', 'Quantity': 5}
+2021-12-23 09:54:13,574-INFO-Request : IONjO5rgKyPROUf - {'SubscriptionId': '5d01a781-00c8-9d6e-0ecc-3a00f7ac6df1', 'Quantity': 5}
+2021-12-23 09:55:13,316-INFO-Request : uFbaE3o2WhLI1Kt - {'SubscriptionId': '5d01a781-00c8-9d6e-0ecc-3a00f7ac6df1'}
+2021-12-23 09:55:15,768-INFO-Exception : uFbaE3o2WhLI1Kt - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 123, in remove_sub
+    resmsg = json.loads(removeresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-23 09:56:21,507-INFO-Request : 8t49B3qvwo32Dok - {'SubscriptionId': '5d01a781-00c8-9d6e-0ecc-3a00f7ac6df1'}
+2021-12-23 09:57:04,445-INFO-Request : g9PmS63k9Z9Ux7q - {'SubscriptionId': '5d01a781-00c8-9d6e-0ecc-3a00f7ac6df1'}
+2021-12-23 09:57:06,151-INFO-Response : g9PmS63k9Z9Ux7q - {'ErrorId': '60f85e6b-4f8b-4630-9486-2030090138ee', 'Message': 'Incorrect state of the subscription.', 'ErrorCode': 'IncorrectSubscriptionState'}
+2021-12-23 09:57:24,475-INFO-Request : Jds0h31c34en7nr - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-23 09:57:30,736-INFO-Response : Jds0h31c34en7nr - {'SubscriptionId': '6301a881-00c8-9d6e-0ecc-3a00f7b81aa5', 'ActivationCode': 'J4TJ7-6TVFN-4W29S-4D52K', 'LicenseId': '1f546a0c-7757-4da4-9d8e-ad4fc7ff82ed'}
+2021-12-23 09:57:43,819-INFO-Request : 7ktGn4hI50g7OEB - {'SubscriptionId': '6301a881-00c8-9d6e-0ecc-3a00f7b81aa5', 'Quantity': 5}
+2021-12-23 09:58:09,774-INFO-Request : e5UNBST4GU3uzun - {'SubscriptionId': '6301a881-00c8-9d6e-0ecc-3a00f7b81aa5'}
+2021-12-23 09:58:12,877-INFO-Exception : e5UNBST4GU3uzun - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 124, in remove_sub
+    resmsg = json.loads(removeresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-23 09:58:29,149-INFO-Request : nuDVgKpNY5Ag6rE - {'SubscriptionId': '6301a881-00c8-9d6e-0ecc-3a00f7b81aa5'}
+2021-12-23 09:58:30,441-INFO-Response : nuDVgKpNY5Ag6rE - {'ErrorId': '253b8b88-24c6-40d3-a2fe-a3dc7f8291ec', 'Message': 'Incorrect state of the subscription.', 'ErrorCode': 'IncorrectSubscriptionState'}
+2021-12-23 10:00:28,872-INFO-Request : EurS755RfLOJbOT - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG1', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-23 10:00:31,863-INFO-Response : EurS755RfLOJbOT - {'ErrorId': '80127977-5bd1-48a7-91ee-ec55f024abaa', 'Message': "The field Sku must be a string or array type with a maximum length of '11'.", 'ErrorCode': 'Validation'}
+2021-12-23 10:01:15,299-INFO-Request : 1tATJ2ICyK61bCC - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-23 10:01:20,620-INFO-Response : 1tATJ2ICyK61bCC - {'SubscriptionId': '6901a981-00c8-9d6e-0ecc-3a00f7bb9f9c', 'ActivationCode': 'UE1J6-D9D6R-2BR1G-XN79K', 'LicenseId': 'c245c793-44a6-4931-8353-0db3d44f0c4e'}
+2021-12-23 10:04:37,350-INFO-Request : KJHhdW8QUusiIev - {'SubscriptionId': '6901a981-00c8-9d6e-0ecc-3a00f7bb9f9c', 'Quantity': 5}
+2021-12-23 10:04:39,010-INFO-Exception : KJHhdW8QUusiIev - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 91, in modify_sub
+    resmsg = json.loads(modifyresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-23 10:09:32,945-INFO-Request : s6toYvC0DMyl7cd - {'SubscriptionId': '6901a981-00c8-9d6e-0ecc-3a00f7bb9f9c', 'Quantity': 5}
+2021-12-23 10:09:34,404-INFO-Response : s6toYvC0DMyl7cd - {'success': 'true'}
+2021-12-23 10:11:15,359-INFO-Request : KcJCbtqIVc3dCZU - {'SubscriptionId': '6901a981-00c8-9d6e-0ecc-3a00f7bb9f9c'}
+2021-12-23 10:11:16,555-INFO-Response : KcJCbtqIVc3dCZU - {'message': 'success'}
+2021-12-23 10:11:19,453-INFO-Request : kmtfgu7jlytNObO - {'SubscriptionId': '6901a981-00c8-9d6e-0ecc-3a00f7bb9f9c'}
+2021-12-23 10:11:20,770-INFO-Response : kmtfgu7jlytNObO - {'ErrorId': '70186a51-88c8-4c73-906a-6a1b03e5559d', 'Message': 'Incorrect state of the subscription.', 'ErrorCode': 'IncorrectSubscriptionState'}
+2021-12-23 11:22:04,167-INFO-Request : gKsxjq1pHLLPhux - {'SubscriptionId': '6901a981-00c8-9d6e-0ecc-3a00f7bb9f9c'}
+2021-12-23 11:22:05,413-INFO-Response : gKsxjq1pHLLPhux - {'ErrorId': 'cfb7cf25-31b1-4f0f-a31f-1df73e58c074', 'Message': 'Incorrect state of the subscription.', 'ErrorCode': 'IncorrectSubscriptionState'}
+2021-12-23 11:22:58,593-INFO-Request : D1QzWvRBOYvsXxK - {'SubscriptionId': '6901a981-00c8-9d6e-0ecc-3a00f7bb9f9c', 'Quantity': 5}
+2021-12-23 11:23:00,118-INFO-Response : D1QzWvRBOYvsXxK - {'ErrorId': '17c2d21a-282c-43a3-a2a1-2af6a7d337a1', 'Message': 'Incorrect state of the subscription.', 'ErrorCode': 'IncorrectSubscriptionState'}
+2021-12-27 11:00:21,023-INFO-Request : tHh1ablb24UORQ0 - {'SubscriptionId': '6901a981-00c8-9d6e-0ecc-3a00f7bb9f9c'}
+2021-12-27 11:00:24,286-INFO-Response : tHh1ablb24UORQ0 - {'ErrorId': 'b178901c-a61a-4943-a541-4b8805f3b6d0', 'Message': 'Incorrect state of the subscription.', 'ErrorCode': 'IncorrectSubscriptionState'}
+2021-12-27 11:02:27,725-INFO-Request : cbhPEOGHD7oNvCG - {'SubscriptionId': '6901a981-00c8-9d6e-0ecc-3a00f7bb9f9c'}
+2021-12-27 11:02:28,836-INFO-Exception : cbhPEOGHD7oNvCG - Traceback (most recent call last):
+  File "D:\Program Files\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Program Files\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "D:\Program Files\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "D:\Program Files\Python\Python39\lib\site-packages\urllib3\connection.py", line 411, in connect
+    self.sock = ssl_wrap_socket(
+  File "D:\Program Files\Python\Python39\lib\site-packages\urllib3\util\ssl_.py", line 428, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "D:\Program Files\Python\Python39\lib\site-packages\urllib3\util\ssl_.py", line 472, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "D:\Program Files\Python\Python39\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "D:\Program Files\Python\Python39\lib\ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "D:\Program Files\Python\Python39\lib\ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:1123)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Program Files\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "D:\Program Files\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "D:\Program Files\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.demo.korm.kaspersky.com', port=443): Max retries exceeded with url: /Subscriptions/v2.0/api/Subscription/hardcancel (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 117, in remove_sub
+    removeresponse = requests.post(
+  File "D:\Program Files\Python\Python39\lib\site-packages\requests\api.py", line 119, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "D:\Program Files\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Program Files\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Program Files\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Program Files\Python\Python39\lib\site-packages\requests\adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='api.demo.korm.kaspersky.com', port=443): Max retries exceeded with url: /Subscriptions/v2.0/api/Subscription/hardcancel (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')))
+
+2021-12-27 11:03:49,197-INFO-Request : 4cEf4OxlMu2L21y - {'SubscriptionId': '6901a981-00c8-9d6e-0ecc-3a00f7bb9f9c'}
+2021-12-27 11:03:50,726-INFO-Response : 4cEf4OxlMu2L21y - {'ErrorId': '42188e4f-4f3d-4466-a482-5cd0f789d11f', 'Message': 'Incorrect state of the subscription.', 'ErrorCode': 'IncorrectSubscriptionState'}
+2021-12-28 09:46:15,958-INFO-Request : 1OUjhlo2rXWpsHP - {'SubscriptionId': '6901a981-00c8-9d6e-0ecc-3a00f7bb9f9c'}
+2021-12-28 09:46:17,940-INFO-Response : 1OUjhlo2rXWpsHP - {'ErrorId': '0b317d8d-6b71-4c7e-8fd3-8b5e474860bb', 'Message': 'Incorrect state of the subscription.', 'ErrorCode': 'IncorrectSubscriptionState'}
+2021-12-28 09:48:40,781-INFO-Request : zFkfiAH0oIMxkZq - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG1', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 09:48:42,164-INFO-Response : zFkfiAH0oIMxkZq - {'ErrorId': '673b5185-982d-4716-9450-d49de39367d7', 'Message': "The field Sku must be a string or array type with a maximum length of '11'.", 'ErrorCode': 'Validation'}
+2021-12-28 09:49:02,494-INFO-Request : eV8JexpeNJNfqaF - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 09:49:05,669-INFO-Response : eV8JexpeNJNfqaF - {'SubscriptionId': 'eb00d782-00c8-9d6e-0ecc-3a0111703887', 'ActivationCode': 'YQWYD-WC7AM-BHEG7-URG2Z', 'LicenseId': '9ec3a4e7-ae83-4adb-8c39-30eca9ae478d'}
+2021-12-28 09:50:33,419-INFO-Request : DxdEDDJN2qfRRCs - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 09:50:35,254-INFO-Exception : DxdEDDJN2qfRRCs - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 61, in create_sub
+    resmsg = json.loads(createresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-28 09:52:21,147-INFO-Request : bP5DDcHlgWsqNad - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 09:52:22,877-INFO-Exception : bP5DDcHlgWsqNad - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 61, in create_sub
+    resmsg = json.loads(createresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-28 09:53:01,119-INFO-Request : UcoFDu9pRLetrl7 - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 09:53:02,887-INFO-Exception : UcoFDu9pRLetrl7 - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 61, in create_sub
+    resmsg = json.loads(createresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-28 09:58:12,791-INFO-Request : OfOR9xVH3mF4Sct - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 09:58:14,533-INFO-Exception : OfOR9xVH3mF4Sct - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 61, in create_sub
+    resmsg = json.loads(createresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-28 09:58:39,927-INFO-Request : pq4d2utz5cRBYhE - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 09:58:41,614-INFO-Exception : pq4d2utz5cRBYhE - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 61, in create_sub
+    resmsg = json.loads(createresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-28 10:01:09,173-INFO-Request : cVBKK6W0oij3K9b - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 10:01:11,067-INFO-Exception : cVBKK6W0oij3K9b - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 62, in create_sub
+    resmsg = json.loads(createresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-28 10:01:40,027-INFO-Request : c9gdDGQdj2jFMzs - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 10:01:42,130-INFO-Exception : c9gdDGQdj2jFMzs - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 62, in create_sub
+    resmsg = json.loads(createresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-28 10:02:04,194-INFO-Request : fWHq0CqwJfiXXSQ - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 10:02:05,959-INFO-Exception : fWHq0CqwJfiXXSQ - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 62, in create_sub
+    resmsg = json.loads(createresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-28 10:07:48,987-INFO-Request : xLKmmaU0OM5pxzl - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 10:07:51,086-INFO-Exception : xLKmmaU0OM5pxzl - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 62, in create_sub
+    resmsg = json.loads(createresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-28 10:08:57,184-INFO-Request : vWqH2wuL0Co17PV - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 10:08:59,044-INFO-Exception : vWqH2wuL0Co17PV - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 62, in create_sub
+    resmsg = json.loads(createresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-28 10:10:32,664-INFO-Request : hkwTsRphsGExFNQ - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 10:10:34,481-INFO-Exception : hkwTsRphsGExFNQ - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 62, in create_sub
+    resmsg = json.loads(createresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-28 10:11:16,798-INFO-Request : EGoL9HzdsPh7qaD - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 10:11:18,838-INFO-Exception : EGoL9HzdsPh7qaD - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 62, in create_sub
+    resmsg = json.loads(createresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-28 10:11:42,235-INFO-Request : k0aiXtuI1IAMv76 - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 10:11:44,433-INFO-Exception : k0aiXtuI1IAMv76 - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 62, in create_sub
+    resmsg = json.loads(createresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2021-12-28 10:12:17,447-INFO-Request : roYJxouUmjKKqOy - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2021-12-28 10:12:19,292-INFO-Exception : roYJxouUmjKKqOy - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 62, in create_sub
+    resmsg = json.loads(createresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2022-01-25 17:04:59,339-INFO-Request : P4paOBYqNuuiye2 - {'BillingPlan': 'PAYG', 'Sku': 'KL4151XIEMG', 'Quantity': 6, 'Expiration': None, 'Customer': {'Contacts': {'CompanyName': 'Paramount', 'Email': 'test.ya.ru', 'Phone': '123456', 'CustomerCode': '1122'}, 'Address': {'AddressLine1': '10300 Broadway st.', 'AddressLine2': 'smh', 'City': 'New York', 'State': 'New York', 'Zip': '10025', 'Country': 'USA'}}, 'Distributor': {'Partner': 'SLT', 'Reseller': 'TE27PT00'}, 'Comment': "It's just test!", 'DeliveryEmail': 'prabodha@slt.com.lk'}
+2022-01-25 17:05:01,089-INFO-Exception : P4paOBYqNuuiye2 - Traceback (most recent call last):
+  File "D:\Python\APiPy\kaspersky\kaspersky.py", line 62, in create_sub
+    resmsg = json.loads(createresponse.text)
+  File "D:\Program Files\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program Files\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+

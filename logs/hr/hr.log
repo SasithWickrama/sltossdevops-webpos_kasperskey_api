@@ -1,0 +1,72 @@
+2021-11-02 14:09:53,859-INFO-Request : {'username': '012583', 'password': 'Aadp$19870120'}
+2021-11-02 14:09:54,037-INFO-Response Code: 200
+2021-11-02 14:09:54,037-INFO-Response : {'success': True, 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQyMjY3fQ.iqoOGDz_XBa2qpSaeaCfcoBm4SBsJmYRWtH93eXI2U8', 'name': 'Mr. A A D P Chathuranga', 'person_id': 34446, 'employee_number': '012583', 'job': 'Assistant Manager (IT & NW) - A8', 'email': 'prabodha@slt.com.lk', 'gender': 'M', 'employee': 'YES', 'manager': 'NO'}
+2021-11-02 14:22:11,462-INFO-Request : {'username': '012583', 'password': 'Aadp$19870120'}
+2021-11-02 14:22:11,814-INFO-Response Code: 200
+2021-11-02 14:22:11,814-INFO-Response : {'success': True, 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8', 'name': 'Mr. A A D P Chathuranga', 'person_id': 34446, 'employee_number': '012583', 'job': 'Assistant Manager (IT & NW) - A8', 'email': 'prabodha@slt.com.lk', 'gender': 'M', 'employee': 'YES', 'manager': 'NO'}
+2021-11-02 14:22:26,922-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 14:23:16,821-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 14:23:16,925-INFO-Response Code: 200
+2021-11-02 14:23:16,925-INFO-Response : {'success': True, 'data': [{'Leave_Plan': 'ANNUAL LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'CASUAL LEAVE PLAN', 'Entitlement': 7, 'Current_Balance': 7, 'No_Pay': 0}, {'Leave_Plan': 'UNION AGM PLAN', 'Entitlement': 1, 'Current_Balance': 1, 'No_Pay': 0}, {'Leave_Plan': 'SICK LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}]}
+2021-11-02 15:08:36,278-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 15:08:36,607-INFO-Response Code: 200
+2021-11-02 15:08:36,607-INFO-Response : {'success': True, 'data': [{'Leave_Plan': 'ANNUAL LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'CASUAL LEAVE PLAN', 'Entitlement': 7, 'Current_Balance': 7, 'No_Pay': 0}, {'Leave_Plan': 'SICK LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'UNION AGM PLAN', 'Entitlement': 1, 'Current_Balance': 1, 'No_Pay': 0}]}
+2021-11-02 15:19:07,834-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 15:19:07,941-INFO-Response Code: 200
+2021-11-02 15:19:07,942-INFO-Response : {'success': True, 'data': [{'Leave_Plan': 'ANNUAL LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'CASUAL LEAVE PLAN', 'Entitlement': 7, 'Current_Balance': 7, 'No_Pay': 0}, {'Leave_Plan': 'SICK LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'UNION AGM PLAN', 'Entitlement': 1, 'Current_Balance': 1, 'No_Pay': 0}]}
+2021-11-02 15:19:38,774-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 15:19:38,889-INFO-Response Code: 200
+2021-11-02 15:19:38,889-INFO-Response : {'success': True, 'data': [{'Leave_Plan': 'ANNUAL LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'CASUAL LEAVE PLAN', 'Entitlement': 7, 'Current_Balance': 7, 'No_Pay': 0}, {'Leave_Plan': 'SICK LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'UNION AGM PLAN', 'Entitlement': 1, 'Current_Balance': 1, 'No_Pay': 0}]}
+2021-11-02 15:21:29,127-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 15:21:29,244-INFO-Response Code: 200
+2021-11-02 15:21:29,244-INFO-Response : {'success': True, 'data': [{'Leave_Plan': 'ANNUAL LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'CASUAL LEAVE PLAN', 'Entitlement': 7, 'Current_Balance': 7, 'No_Pay': 0}, {'Leave_Plan': 'SICK LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'UNION AGM PLAN', 'Entitlement': 1, 'Current_Balance': 1, 'No_Pay': 0}]}
+2021-11-02 15:21:29,246-INFO-Exception : Traceback (most recent call last):
+  File "D:\Python\APiPy\hr\hr.py", line 57, in requet_leave
+    print(data['Leave_Plan'])
+TypeError: string indices must be integers
+
+2021-11-02 15:22:19,859-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 15:22:20,008-INFO-Response Code: 200
+2021-11-02 15:22:20,008-INFO-Response : {'success': True, 'data': [{'Leave_Plan': 'ANNUAL LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'CASUAL LEAVE PLAN', 'Entitlement': 7, 'Current_Balance': 7, 'No_Pay': 0}, {'Leave_Plan': 'SICK LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'UNION AGM PLAN', 'Entitlement': 1, 'Current_Balance': 1, 'No_Pay': 0}]}
+2021-11-02 15:22:20,010-INFO-Exception : Traceback (most recent call last):
+  File "D:\Python\APiPy\hr\hr.py", line 57, in requet_leave
+    print(data['Leave_Plan'])
+TypeError: string indices must be integers
+
+2021-11-02 15:23:18,135-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 15:23:18,241-INFO-Response Code: 200
+2021-11-02 15:23:18,242-INFO-Response : {'success': True, 'data': [{'Leave_Plan': 'ANNUAL LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'CASUAL LEAVE PLAN', 'Entitlement': 7, 'Current_Balance': 7, 'No_Pay': 0}, {'Leave_Plan': 'SICK LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'UNION AGM PLAN', 'Entitlement': 1, 'Current_Balance': 1, 'No_Pay': 0}]}
+2021-11-02 15:29:09,768-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 15:29:10,030-INFO-Response Code: 200
+2021-11-02 15:29:10,030-INFO-Response : {'success': True, 'data': [{'Leave_Plan': 'ANNUAL LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'CASUAL LEAVE PLAN', 'Entitlement': 7, 'Current_Balance': 7, 'No_Pay': 0}, {'Leave_Plan': 'SICK LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'UNION AGM PLAN', 'Entitlement': 1, 'Current_Balance': 1, 'No_Pay': 0}]}
+2021-11-02 15:32:41,188-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 15:32:41,293-INFO-Response Code: 200
+2021-11-02 15:32:41,293-INFO-Response : {'success': True, 'data': [{'Leave_Plan': 'ANNUAL LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'CASUAL LEAVE PLAN', 'Entitlement': 7, 'Current_Balance': 7, 'No_Pay': 0}, {'Leave_Plan': 'SICK LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'UNION AGM PLAN', 'Entitlement': 1, 'Current_Balance': 1, 'No_Pay': 0}]}
+2021-11-02 15:33:56,620-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 15:33:56,761-INFO-Response Code: 200
+2021-11-02 15:33:56,761-INFO-Response : {'success': True, 'data': [{'Leave_Plan': 'ANNUAL LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'CASUAL LEAVE PLAN', 'Entitlement': 7, 'Current_Balance': 7, 'No_Pay': 0}, {'Leave_Plan': 'SICK LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'UNION AGM PLAN', 'Entitlement': 1, 'Current_Balance': 1, 'No_Pay': 0}]}
+2021-11-02 15:33:56,761-INFO-Exception : Traceback (most recent call last):
+  File "D:\Python\APiPy\hr\hr.py", line 57, in requet_leave
+    for data in resmsg['data'].items():
+AttributeError: 'list' object has no attribute 'items'
+
+2021-11-02 15:36:47,096-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 15:36:47,200-INFO-Response Code: 200
+2021-11-02 15:36:47,200-INFO-Response : {'success': True, 'data': [{'Leave_Plan': 'ANNUAL LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'CASUAL LEAVE PLAN', 'Entitlement': 7, 'Current_Balance': 7, 'No_Pay': 0}, {'Leave_Plan': 'SICK LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'UNION AGM PLAN', 'Entitlement': 1, 'Current_Balance': 1, 'No_Pay': 0}]}
+2021-11-02 15:37:59,370-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 15:37:59,476-INFO-Response Code: 200
+2021-11-02 15:37:59,476-INFO-Response : {'success': True, 'data': [{'Leave_Plan': 'ANNUAL LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'CASUAL LEAVE PLAN', 'Entitlement': 7, 'Current_Balance': 7, 'No_Pay': 0}, {'Leave_Plan': 'SICK LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'UNION AGM PLAN', 'Entitlement': 1, 'Current_Balance': 1, 'No_Pay': 0}]}
+2021-11-02 15:37:59,477-INFO-Exception : Traceback (most recent call last):
+  File "D:\Python\APiPy\hr\hr.py", line 61, in requet_leave
+    for dat in data.items:
+TypeError: 'builtin_function_or_method' object is not iterable
+
+2021-11-02 15:38:50,551-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 15:38:50,654-INFO-Response Code: 200
+2021-11-02 15:38:50,654-INFO-Response : {'success': True, 'data': [{'Leave_Plan': 'ANNUAL LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'CASUAL LEAVE PLAN', 'Entitlement': 7, 'Current_Balance': 7, 'No_Pay': 0}, {'Leave_Plan': 'SICK LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'UNION AGM PLAN', 'Entitlement': 1, 'Current_Balance': 1, 'No_Pay': 0}]}
+2021-11-02 15:40:35,766-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 15:40:35,866-INFO-Response Code: 200
+2021-11-02 15:40:35,866-INFO-Response : {'success': True, 'data': [{'Leave_Plan': 'ANNUAL LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'CASUAL LEAVE PLAN', 'Entitlement': 7, 'Current_Balance': 7, 'No_Pay': 0}, {'Leave_Plan': 'SICK LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'UNION AGM PLAN', 'Entitlement': 1, 'Current_Balance': 1, 'No_Pay': 0}]}
+2021-11-02 18:21:43,090-INFO-Request : {'username': '012583', 'personid': '34446', 'authtoken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib2R5IjozNDQ0NiwiaWF0IjoxNjM1ODQzMDA1fQ.JWY_F8ouBWDLuPbu_jKTw1-GE_FSIA90ow2TD3UpJA8'}
+2021-11-02 18:21:43,593-INFO-Response Code: 200
+2021-11-02 18:21:43,594-INFO-Response : {'success': True, 'data': [{'Leave_Plan': 'ANNUAL LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'CASUAL LEAVE PLAN', 'Entitlement': 7, 'Current_Balance': 7, 'No_Pay': 0}, {'Leave_Plan': 'SICK LEAVE PLAN', 'Entitlement': 14, 'Current_Balance': 14, 'No_Pay': 0}, {'Leave_Plan': 'UNION AGM PLAN', 'Entitlement': 1, 'Current_Balance': 1, 'No_Pay': 0}]}
